@@ -1,7 +1,7 @@
 <img align='right' src="https://netcash.co.za/wp-content/uploads/2019/11/sage-business-cloud-payroll.png" width="230">
 
 <h2> Hi, I'm Daniel! </h2>
-Welcome to the landing page for my Sage Git Profile, it is complimentary to my personal one. This is small curated space where all my Sage Projects, along with relevant contact information are made accessible. <br/>
+Welcome to the landing page for my Sage Git Profile, it is complimentary to my personal one. This is a private space where all my Sage Projects, along with relevant contact information are made accessible. <br/>
 
 ### Profile
 
