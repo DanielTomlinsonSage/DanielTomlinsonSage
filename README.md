@@ -53,7 +53,7 @@ Should you need to reach out: <br/>
 I have been at this for 20 years, and all round capable of working with large teams. Self starter, active motivator, and a strong focus on delivering best in class - at pace.
 
 ### Platforms
-Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well.<br/> 
+Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well. 
 These are some of the ones I am more than comfortable with: <br/>
 <p>
   <img align="left" alt="firebase" src="https://img.shields.io/badge/Google%20firebase-232F3E.svg?style=for-the-badge&logo=firebase&logoColor=FFA611" />
@@ -63,7 +63,7 @@ These are some of the ones I am more than comfortable with: <br/>
 <br/>
 
 ### Frameworks
-If the only tool in your toolbox is a hammer, every problem looks like a nail. <br/>
+If the only tool in your toolbox is a hammer, every problem looks like a nail. 
 Some frameworks are certainly better for certain requirements, I am quite comfortable with and fond of: <br/>
 <p>
  <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -75,7 +75,7 @@ Some frameworks are certainly better for certain requirements, I am quite comfor
 <br/>
 
 ### Languages
-Most developers I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull. <br/>
+Most developers I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull. 
 Some of my staple languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
