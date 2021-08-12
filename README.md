@@ -19,8 +19,8 @@ const daniel = {
     ux: ["design system patterns"]
   ],
   associations: { "ACS", "Xbox Ambasador", "Windows Insider" },
-  communities: { "OpenJS Foundation", "MS Store Developer", "Gave Dev" },
-  organisations: { "LegoLeague", "JS Landia", "UX Collective" }
+  affiliations: { "LegoLeague", "JS Landia", "MS Store Developer" },
+  communities: { "OpenJS Foundation", "UX Collective", "Gave Dev" },
 }
 ```
 
@@ -49,7 +49,7 @@ Should you need to reach out: <br/>
    
 <br/>
    
-<h2> Full Stack </h2>
+<h2> Full Stack Developer </h2>
 
 ### Platforms
 Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well.<br/> 
