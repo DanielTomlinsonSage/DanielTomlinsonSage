@@ -75,7 +75,7 @@ Some frameworks are certainly better for certain requirements, I am quite comfor
 <br/>
 
 ### Languages
-Most developers I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull. 
+Similar to most developers, I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull. 
 Some of my staple languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
