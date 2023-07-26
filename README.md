@@ -1,10 +1,9 @@
 <img align='right' src="https://netcash.co.za/wp-content/uploads/2019/11/sage-business-cloud-payroll.png" width="230">
 
 <h2> Hi, I'm Daniel! </h2>
-Welcome to the landing page for my Sage Git Profile, it is complimentary to my personal one. This is a private space where all my Sage Projects, along with relevant contact information are made accessible. <br/>
+Welcome to the landing page for my Sage Git Profile, which complements my personal one. This is a private space where all my Sage Projects and relevant contact information are made accessible. <br/>
 
 ### Profile
-
 ```javascript
 const daniel = {
   pronouns: "he" | "his",
@@ -48,15 +47,16 @@ Should you need to reach out: <br/>
 <br/>
    
 <br/>
-   
-<h2> Full Stack Developer </h2>
-I have been at this for 20 years, with a proven track record. All round capable of working in, and with large teams. Self starter, active motivator, and a strong focus on delivering best in class, at pace.
+
+<h2> Full Stack Developer > Team Lead > Product Development Manager </h2>
+I have been at this for 20 years, with a proven track record. All round capable of working in and with large teams. Self-starter, active motivator, and a strong focus on delivering best in class, at pace.
 
 ### Platforms
 Having worked on some of the most popular Cloud platforms, and based on my experience with them informed decisions regarding what they do well. 
 These are some of the ones I am more than comfortable with: <br/>
 <p>
   <img align="left" alt="firebase" src="https://img.shields.io/badge/Google%20firebase-232F3E.svg?style=for-the-badge&logo=firebase&logoColor=FFA611" />
+  <img align="left" alt="CloudFlare" src="https://img.shields.io/badge/CloudFlare-232F3E.svg?style=for-the-badge&logo=cloudflare&logoColor=FFA611" />
   <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-232F3E.svg?style=for-the-badge&logo=microsoft-azure&logoColor=4296f5" />
   <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FFA611" />
 </p>
@@ -64,18 +64,20 @@ These are some of the ones I am more than comfortable with: <br/>
 
 ### Frameworks
 If the only tool in your toolbox is a hammer, every problem looks like a nail. 
-Some frameworks are certainly better for certain requirements, I am quite comfortable with and fond of: <br/>
+Some frameworks are certainly better for certain requirements, and I am quite comfortable with and fond of: <br/>
 <p>
  <img align="left" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  <img align="left" alt="node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
  <img align="left" alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+ <img align="left" alt="Svelte" src="https://img.shields.io/badge/Svelte-232F3E?style=for-the-badge&logo=Svelte&logoColor=cc3300" />
+ <img align="left" alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-232F3E?style=for-the-badge&logo=Svelte&logoColor=cc3300" />
  <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />	
  <img align="left" alt="angularjs" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />	
 </p>
 <br/>
 
 ### Languages
-Similar to most developers, I "speak" a few, and although some are questionable as languages in their own right, they are extremly usefull. 
+Like most developers, I "speak" a few languages, and although some are questionable (HTML is turning complete!), they are extremely useful. 
 Some of my staple languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
