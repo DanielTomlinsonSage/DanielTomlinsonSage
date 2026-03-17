@@ -78,14 +78,14 @@ Some frameworks are certainly better for certain requirements, and I am quite co
 <br/>
 
 ### Languages
-Like most developers, I "speak" a few languages, and although some are questionable (HTML is turning complete!), they are extremely useful. 
+Like most developers, I "speak" a few languages, and although some are questionable (HTML is Turing Complete!), they are extremely useful. 
 Some of my staple languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-0095D5?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img align="left" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 <br/>
