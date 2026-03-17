@@ -58,8 +58,8 @@ These are some of the ones I am more than comfortable with: <br/>
 <p>
   <img align="left" alt="firebase" src="https://img.shields.io/badge/Google%20firebase-232F3E.svg?style=for-the-badge&logo=firebase&logoColor=FFA611" />
   <img align="left" alt="CloudFlare" src="https://img.shields.io/badge/CloudFlare-232F3E.svg?style=for-the-badge&logo=cloudflare&logoColor=FFA611" />
-  <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-232F3E.svg?style=for-the-badge&logo=microsoft-azure&logoColor=4296f5" />
-  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=FFA611" />
+  <img align="left" alt="azure" src="https://img.shields.io/badge/Microsoft%20azure-00599C.svg?style=for-the-badge&logo=microsoft&logoColor=4296f5" />
+  <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-E34F26.svg?style=for-the-badge&logo=amazon&logoColor=FFA611" />
 </p>
 <br/>
 
@@ -84,8 +84,8 @@ Some of my staple languages include: <br/>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
  <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-0095D5?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="left" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-0095D5?style=for-the-badge&logo=css&logoColor=white" />
+ <img align="left" alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 <br/>
