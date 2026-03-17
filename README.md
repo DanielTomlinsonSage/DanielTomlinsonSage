@@ -7,20 +7,20 @@ Welcome to the landing page for my Sage Git Profile, which complements my person
 ```javascript
 const daniel = {
   pronouns: "he" | "him",
-  code: ["Typescript", "Javascript", "HTML", "CSS", "C#", "C++", "PHP"],
+  code: ["Typescript", "Javascript", "HTML", "CSS", "C#", "C", "PHP"],
   frameworks: ["svelte", "vue.js", "angular", "angularjs", "express.js"],
   tools: ["vite", "node.js", "iis", "ngnix", "apache"],
   architecture: [
     web: ["microservices", "layered", "mvc"],
     platforms: ["azure", "aws", "firebase", "cloudflare"],
     software: ["microservices", "monolithic", "SOA"],
-    eventing: ["event-bus"],
-    data: ["redux", "vuex", "repository"],
+    data: ["MSSQL", "MySQL", "Postgress", "MongoDB", "Firebase"],
+    eventing: ["event-bus"]
   ],
   ux-design: ["creational", "behavioural", "structural"],
   affiliations: [ "LegoLeague", "JS Landia", "MS Store Developer" ],
   associations: [ "ACS.org.au", "Xbox Ambasador", "Windows Insider" ],
-  communities: [ "OpenJS Foundation", "UX Collective", "Gave Dev Community" ]
+  communities: [ "OpenJS Foundation", "UX Collective", "Game Dev Community" ]
 }
 ```
 
