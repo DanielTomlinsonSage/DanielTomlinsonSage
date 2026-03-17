@@ -78,8 +78,7 @@ Some frameworks are certainly better for certain requirements, and I am quite co
 <br/>
 
 ### Languages
-Like most developers, I "speak" a few languages, and although some are questionable (HTML is Turing Complete!), they are extremely useful. 
-Some of my staple languages include: <br/>
+Like most developers, I "speak" a few languages, and although some are questionable (HTML+CSS is Turing Complete!), they are extremely useful. Some of my native languages include: <br/>
 <p>
  <img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
